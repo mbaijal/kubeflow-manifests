@@ -96,7 +96,7 @@ def create_fsx_driver_sa(
         assert response["Policy"]["Arn"] is not None
 
         create_iam_service_account(
-            "fsx-csi-controller-sa", DEFAULT_USER_NAMESPACE, cluster, region, policy_arn
+            "fsx-csi-controller-sa", DEFAULT_SYSTEM_NAMESPACE, cluster, region, policy_arn
         )
         fsx_deps["fsx_iam_policy_name"] = policy_name
 
