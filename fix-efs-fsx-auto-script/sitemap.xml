@@ -1,0 +1,154 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/add-ons/load-balancer/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/add-ons/prometheus/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/about/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/cognito/guide-automated/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/about/features/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/add-ons/storage/efs/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/component-guides/notebooks/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/component-guides/katib/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/add-ons/storage/fsx-for-lustre/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/cognito/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/component-guides/pipelines/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/prerequisites/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/about/releases/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/about/eks-compatibility/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/add-ons/cloudwatch/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/component-guides/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/component-guides/kserve/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/troubleshooting-aws/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/vanilla/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/component-guides/profiles/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/rds-s3/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/about/security/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/cognito/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/about/usage-tracking/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/cognito-rds-s3/guide/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/add-ons/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/deployment/uninstall-kubeflow/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/docs/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/fix-efs-fsx-auto-script/</loc>
+    <lastmod>2022-08-12T01:03:18-07:00</lastmod>
+  </url>
+  
+</urlset>
