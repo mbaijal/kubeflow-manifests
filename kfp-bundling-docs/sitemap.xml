@@ -1,0 +1,159 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/add-ons/load-balancer/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/add-ons/prometheus/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/about/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/cognito/guide-automated/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/about/features/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/add-ons/storage/efs/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/kubeflow-for-sagemaker/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/notebooks/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/katib/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/add-ons/storage/fsx-for-lustre/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/cognito/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/pipelines/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/prerequisites/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/about/releases/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/about/eks-compatibility/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/add-ons/cloudwatch/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/kserve/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/troubleshooting-aws/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/vanilla/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/component-guides/profiles/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/rds-s3/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/about/security/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/cognito/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/about/usage-tracking/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/cognito-rds-s3/guide/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/add-ons/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/deployment/uninstall-kubeflow/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/docs/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kubeflow.orghttps://mbaijal.github.io/kubeflow-manifests/kfp-bundling-docs/</loc>
+    <lastmod>2022-08-30T15:51:43-07:00</lastmod>
+  </url>
+  
+</urlset>
