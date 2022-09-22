@@ -29,6 +29,9 @@ from e2e.fixtures.clients import (
     client_namespace,
     account_id
 )
+from e2e.fixtures.cluster import (
+    associate_iam_oidc_provider,
+)
 
 from e2e.utils.custom_resources import (
     create_katib_experiment_from_yaml,
@@ -242,9 +245,9 @@ class TestSanity:
         assert expected_output in output or "training-job-" in output
     
     def test_run_kfp_sagemaker_pipeline(
-        self, region, metadata, kfp_client,
+        self, cluster, region, metadata, kfp_client,
     ):
-
+        associate_iam_oidc_provider(cluster, region)
         random_prefix = rand_name("kfp-")
         experiment_name = "experiment-" + random_prefix
         experiment_description = "description-" + random_prefix
